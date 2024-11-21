@@ -1,6 +1,7 @@
 body{
     background-color: lightcoral;
-    color: maroon
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
 }
 h1 > img{
     width: 100px;
